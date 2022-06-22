@@ -1,0 +1,73 @@
+173  mkdir star_wars
+  174  mkdir empire && rebellion
+  175  rm -rf empire
+  176  mkdir empire rebellion
+  177  touch darh_vader.txt
+  178  mkdir star_wars
+  179  cd star_wars
+  180  mkdir empire rebellion
+  181  cd empire
+  182  touch darth_vader.txt
+  183  echo "...heavy breathing..." > darth_vader.txt
+  184  cd empire
+  185  ls
+  186  touch emperor_palpatine.txt
+  187  mkdir death_star
+  188  mv darth_vader death_star
+  189  mv darth_vader.txt death_star
+  190  git add .
+  191  -v git commit -m "hope this works"
+  192  git commit -m "hope this works"
+  193  history
+  194  cd star_wars
+  195  cd ..
+  196  cd rebellion
+  197  touch princess_leia.txt && echo "Help me, Obi-wan..." > princess_leia.txt
+  198  touch obi-wan.txt
+  199  touch luke_skywalker.txt
+  200  mkdir millenium_falcon
+  201  cd millenium_falcon
+  202  touch han_solo.txt chewbacca.txt
+  203  mv luke_skywalker.txt obi-wan.txt princess_leia.txt millenium_falcon
+  204  cd rebellion
+  205  cd ..
+  206  mv luke_skywalker.txt obi-wan.txt princess_leia.txt millenium_falcon
+  207  cd ..
+  208  cd empire
+  209  cd death_star
+  210  cd ..
+  211  mv millenium_falcon death_star
+  212  cd ..
+  213  mv millenium_falcon death_star
+  214  cd rebellion
+  215  mv millenium_falcon star_wars empire
+  216  mv millenium_falcon star_wars
+  217  mv star_wars millenium_falcon
+  218* cd ..
+  219* cd dummy1
+  220* mv desktop/GA/move2
+  221* mv dummy1 ..
+  222* cd move2
+  223* mv move2 ..
+  224* cd ..
+  225* mv move2 GA/
+  226* cd ..
+  227* cd dummy2
+  228* touch work.txt
+  229* mv work.txt/dummy2/dummy1
+  230* mv work.txt /dummy2/dummy1
+  231* mv dummy2 dummy1
+  232* cd..
+  233* cd ..
+  234* mv dummy2 dummy1
+  235* cd dummy2
+  236* mv work.txt dummy1
+  237* mv dummy1 work
+  238* mv work.txt /users/pius/desktop
+  239* cd ..
+  240* pwd
+  241* mv dummy2 /Users/pius/deskop
+  242* cd GA
+  243  git add.
+  244  git add .
+  245  git commit -m "Can go no further. Cannot move a folder up the cmd chain."
