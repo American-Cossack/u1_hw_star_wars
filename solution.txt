@@ -1,0 +1,30 @@
+173  mkdir star_wars
+  174  mkdir empire && rebellion
+  175  rm -rf empire
+  176  mkdir empire rebellion
+  177  touch darh_vader.txt
+  178  mkdir star_wars
+  179  cd star_wars
+  180  mkdir empire rebellion
+  181  cd empire
+  182  touch darth_vader.txt
+  183  echo "...heavy breathing..." > darth_vader.txt
+  184  cd empire
+  185  ls
+  186  touch emperor_palpatine.txt
+  187  mkdir death_star
+  188  mv darth_vader death_star
+  189  mv darth_vader.txt death_star
+  190  git add .
+  191  -v git commit -m "hope this works"
+  192  git commit -m "hope this works"
+  193  history
+  194  cd star_wars
+  195  cd ..
+  196  cd rebellion
+  197  touch princess_leia.txt && echo "Help me, Obi-wan..." > princess_leia.txt
+  198  touch obi-wan.txt
+  199  touch luke_skywalker.txt
+  200  mkdir millenium_falcon
+  201  cd millenium_falcon
+  202  touch han_solo.txt chewbacca.txt
